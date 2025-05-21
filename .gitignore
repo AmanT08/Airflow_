@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.log
+logs/
+dags/__pycache__/
+airflow.db
+*.pid
+*.env
+*.sqlite3
+tmp/

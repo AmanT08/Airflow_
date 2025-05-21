@@ -63,3 +63,5 @@ with DAG ('user_information', schedule_interval = '@daily', start_date = datetim
     )
 
     user_data >> process_user
+
+    
